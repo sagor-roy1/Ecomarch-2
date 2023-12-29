@@ -1,0 +1,15 @@
+<svg width="42" height="41" viewBox="0 0 42 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="section-icon-2.svg" clip-path="url(#clip0_1_333)">
+<g id="Group">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M6.64509 5.17009C6.64509 4.25709 5.88909 3.51709 4.95509 3.51709C4.02309 3.51709 3.26709 4.25709 3.26709 5.17009V16.7351C3.26709 17.6481 4.02309 18.3871 4.95609 18.3871C5.88909 18.3871 6.64509 17.6471 6.64509 16.7351V5.17009ZM6.64509 26.6481C6.64509 25.7351 5.88909 24.9961 4.95509 24.9961C4.02309 24.9961 3.26709 25.7351 3.26709 26.6481V38.2131C3.26709 39.1261 4.02309 39.8651 4.95609 39.8651C5.88909 39.8651 6.64509 39.1251 6.64509 38.2131V26.6481Z" fill="#E5E7FD"/>
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M6.15688 2.41309H13.8869C15.9499 2.41309 17.6219 4.04909 17.6219 6.06709V13.6291C17.6219 15.6471 15.9499 17.2831 13.8879 17.2831H6.15688C4.09388 17.2831 2.42188 15.6471 2.42188 13.6291V6.06709C2.42188 4.04909 4.09388 2.41309 6.15688 2.41309Z" stroke="#5271FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M6.15688 23.8911H13.8869C15.9499 23.8911 17.6219 25.5271 17.6219 27.5451V35.1071C17.6219 37.1251 15.9499 38.7611 13.8879 38.7611H6.15688C4.09388 38.7611 2.42188 37.1251 2.42188 35.1071V27.5451C2.42188 25.5271 4.09388 23.8911 6.15688 23.8911Z" stroke="#28CC8B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M24.3779 5.71729H39.5779M24.3779 13.9783H39.5779M24.3779 27.1963H39.5779M24.3779 35.4573H39.5779" stroke="#5271FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_333">
+<rect width="42" height="41" fill="white"/>
+</clipPath>
+</defs>
+</svg>
